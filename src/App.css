@@ -3,7 +3,7 @@
 
 }
 body{
-  background-image: url("C:\Users\avina\OneDrive\Desktop\task-img.png");
+  background-image: url("/public/task-img.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
